@@ -5,18 +5,18 @@
     "icon": "https://favicons.githubusercontent.com/www.gogram.co",
     "slug": "gogram",
     "status": "down",
-    "uptime": "11.84%",
-    "uptimeDay": "11.84%",
-    "uptimeWeek": "11.84%",
-    "uptimeMonth": "11.84%",
-    "uptimeYear": "11.84%",
-    "time": 68,
-    "timeDay": 68,
-    "timeWeek": 68,
-    "timeMonth": 68,
-    "timeYear": 68,
+    "uptime": "0.75%",
+    "uptimeDay": "0.75%",
+    "uptimeWeek": "0.75%",
+    "uptimeMonth": "0.75%",
+    "uptimeYear": "0.75%",
+    "time": 76,
+    "timeDay": 76,
+    "timeWeek": 76,
+    "timeMonth": 76,
+    "timeYear": 76,
     "dailyMinutesDown": {
-      "2022-07-15": 0
+      "2022-07-15": 2
     }
   },
   {
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1172,
-    "timeDay": 1172,
-    "timeWeek": 1172,
-    "timeMonth": 1172,
-    "timeYear": 1172,
+    "time": 1196,
+    "timeDay": 1196,
+    "timeWeek": 1196,
+    "timeMonth": 1196,
+    "timeYear": 1196,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 709,
-    "timeDay": 709,
-    "timeWeek": 709,
-    "timeMonth": 709,
-    "timeYear": 709,
+    "time": 690,
+    "timeDay": 690,
+    "timeWeek": 690,
+    "timeMonth": 690,
+    "timeYear": 690,
     "dailyMinutesDown": {}
   }
 ]
