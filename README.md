@@ -1,4 +1,4 @@
-# [📈 Live Status](https://demo.upptime.js.org): <!--live status--> **🟧 Partial outage**
+# [📈 Live Status](https://status.gogram.co): <!--live status--> **🟧 Partial outage**
 
 This repository contains the open-source uptime monitor and status page for [Upptime](https://status.gogram.co), powered by [Upptime](https://github.com/upptime/upptime).
 
