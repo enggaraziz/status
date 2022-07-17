@@ -11,12 +11,13 @@
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 86,
-    "timeDay": 83,
+    "timeDay": 86,
     "timeWeek": 86,
     "timeMonth": 86,
     "timeYear": 86,
     "dailyMinutesDown": {
-      "2022-07-16": 1134,
+      "2022-07-17": 144,
+      "2022-07-16": 1440,
       "2022-07-15": 501
     }
   },
@@ -26,18 +27,18 @@
     "icon": "https://favicons.githubusercontent.com/www.khur.us",
     "slug": "khurus",
     "status": "up",
-    "uptime": "98.21%",
-    "uptimeDay": "97.97%",
-    "uptimeWeek": "98.21%",
-    "uptimeMonth": "98.21%",
-    "uptimeYear": "98.21%",
-    "time": 1358,
-    "timeDay": 1614,
-    "timeWeek": 1358,
-    "timeMonth": 1358,
-    "timeYear": 1358,
+    "uptime": "99.10%",
+    "uptimeDay": "98.69%",
+    "uptimeWeek": "99.10%",
+    "uptimeMonth": "99.10%",
+    "uptimeYear": "99.10%",
+    "time": 1328,
+    "timeDay": 1672,
+    "timeWeek": 1328,
+    "timeMonth": 1328,
+    "timeYear": 1328,
     "dailyMinutesDown": {
-      "2022-07-16": 29
+      "2022-07-16": 19
     }
   },
   {
@@ -46,18 +47,18 @@
     "icon": "https://favicons.githubusercontent.com/www.autofollowergratis.com",
     "slug": "auto-follower-gratis",
     "status": "up",
-    "uptime": "96.98%",
-    "uptimeDay": "96.57%",
-    "uptimeWeek": "96.98%",
-    "uptimeMonth": "96.98%",
-    "uptimeYear": "96.98%",
-    "time": 609,
-    "timeDay": 566,
-    "timeWeek": 609,
-    "timeMonth": 609,
-    "timeYear": 609,
+    "uptime": "98.08%",
+    "uptimeDay": "98.80%",
+    "uptimeWeek": "98.08%",
+    "uptimeMonth": "98.08%",
+    "uptimeYear": "98.08%",
+    "time": 618,
+    "timeDay": 577,
+    "timeWeek": 618,
+    "timeMonth": 618,
+    "timeYear": 618,
     "dailyMinutesDown": {
-      "2022-07-16": 26,
+      "2022-07-16": 17,
       "2022-07-15": 23
     }
   }
